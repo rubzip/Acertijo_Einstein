@@ -1,7 +1,7 @@
 # Acertijo_de_Einstein
 Resolvemos el acertijo de Einstein usando python3.
 
-En resumidas cuentas consiste en un vecindario, formadas por 5 casas todas en la misma calle.
+En resumidas cuentas consiste en un vecindario, compuesto por 5 casas todas en la misma calle.
 El dueño de cada casa tiene una color de casa, nacionalidad, tipo de bebida, marcas de tabaco y mascota distintas.
 
 Nos dan una información limitada:
