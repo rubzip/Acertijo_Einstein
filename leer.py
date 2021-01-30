@@ -6,7 +6,7 @@ def busca_tipo(objeto):
 	for key in posibilidades:
 		if objeto in posibilidades[key]:
 			return(key)
-
+#Lee el fichero "nombre_fich" y nos devuelve una lista de objetos de la clase condicion
 def lee_condiciones (nombre_fich):
 	condiciones = list()
 	fich = open (nombre_fich, "r")
