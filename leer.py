@@ -19,7 +19,3 @@ def lee_condiciones (nombre_fich):
 	finally:
 		fich.close()
 	return (condiciones)
-
-#Para probar:
-#for i in condiciones:
-#    print(i)
